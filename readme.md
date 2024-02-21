@@ -5,7 +5,9 @@
 
 > This work was done in 2021.
 
-[<a href="[Huankang_Guan_Shadow_Detection_2021.pdf](https://1drv.ms/b/s!Ap4-mN9MwOE5gpc8O_8nqEeSxdSvEA?e=pIWGV5)">paper</a>] [<a href="https://github.com/guanhuankang/ShadowDetection2021">github</a>]
+[<a href="https://1drv.ms/b/s!Ap4-mN9MwOE5gpc8O_8nqEeSxdSvEA?e=pIWGV5">paper</a>] [<a href="https://github.com/guanhuankang/ShadowDetection2021">github</a>]
+
+![visual](other/more_visual.jpg)
 
 ## Resources
 

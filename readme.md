@@ -5,7 +5,7 @@
 
 > This work was done in 2021.
 
-[<a href="https://1drv.ms/b/s!Ap4-mN9MwOE5gpc8O_8nqEeSxdSvEA?e=pIWGV5">paper</a>] [<a href="https://github.com/guanhuankang/ShadowDetection2021">github</a>]
+[<a href="https://arxiv.org/abs/2402.13631">paper</a>] [<a href="https://github.com/guanhuankang/ShadowDetection2021">github</a>]
 
 ![visual](other/more_visual.jpg)
 

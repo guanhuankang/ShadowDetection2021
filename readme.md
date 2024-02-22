@@ -50,5 +50,15 @@ If you want to train our model, please refer to other/train_script.rar for detai
 1. After the inference, set the tool/config.py
 2. Run "cd tool; python start.py"
 
-
+## Cite
+```html
+@misc{guan2024delving,
+      title={Delving into Dark Regions for Robust Shadow Detection}, 
+      author={Huankang Guan and Ke Xu and Rynson W. H. Lau},
+      year={2024},
+      eprint={2402.13631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 

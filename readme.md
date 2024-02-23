@@ -13,9 +13,9 @@
 
 Download model weights and put into folder "models"
 
-SBU: https://drive.google.com/file/d/1oGrisJdjkECRz0XWy_X_rAKLGiKCCilE/view?usp=sharing
+SBU: https://drive.google.com/file/d/1TY8O5F9GPB0Zv7CxQoAUaqQTbJFLdb6a/view?usp=sharing
 
-ISTD: https://drive.google.com/file/d/1Uib_2XV91HYTqHO3_z6lZDAT2Ir8ss1_/view?usp=sharing
+ISTD: https://drive.google.com/file/d/1tc6WpmlAwZTg7aJL18moz2bBn9Rxves0/view?usp=sharing
 
 
 

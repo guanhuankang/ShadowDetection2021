@@ -17,7 +17,7 @@ SBU: https://drive.google.com/file/d/1TY8O5F9GPB0Zv7CxQoAUaqQTbJFLdb6a/view?usp=
 
 ISTD: https://drive.google.com/file/d/1tc6WpmlAwZTg7aJL18moz2bBn9Rxves0/view?usp=sharing
 
-
+![](other/quantitative.jpg)
 
 ## Demo
 
@@ -41,7 +41,7 @@ ISTD: 1.33
 
 
 
-If you want to train our model, please refer to other/train_script.rar for details.
+If you want to train our model, please refer to other/train_script.rar for details (todo: make it better for revision).
 
 
 
@@ -51,6 +51,8 @@ If you want to train our model, please refer to other/train_script.rar for detai
 2. Run "cd tool; python start.py"
 
 ## Cite
+If you find our work is helpful, cite and star it! Thanks!
+
 ```html
 @misc{guan2024delving,
       title={Delving into Dark Regions for Robust Shadow Detection}, 
